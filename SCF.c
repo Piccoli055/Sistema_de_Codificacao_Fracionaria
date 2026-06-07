@@ -1,3 +1,4 @@
+// v5 - chave unificada, validacao e suporte a minusculas
 #include <stdio.h>
 #include <string.h>
 #include <ctype.h>
